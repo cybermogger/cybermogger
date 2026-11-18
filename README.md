@@ -32,7 +32,7 @@
 
 <a href="certificates/technostart-2026-redacted.pdf"><img src="certificates/technostart-2026-redacted.png" alt="Диплом I степени победителя хакатона TECHNO START, 2026" width="720" /></a>
 
-[Открыть оригинал диплома (PDF)](certificates/technostart-2026-redacted.pdf)
+[Открыть диплом с закрытым ФИО (PDF)](certificates/technostart-2026-redacted.pdf)
 
 ---
 
@@ -121,4 +121,5 @@
 ## Связаться
 
 Telegram: [@cybermogger](https://t.me/cybermogger) · [Портфолио](https://liquidsss.github.io/)
+
 
