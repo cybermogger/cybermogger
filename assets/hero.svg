@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-label="Liquid — interfaces, intelligence, interaction">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e17"/><stop offset="1" stop-color="#142a3d"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4fcff"/><stop offset=".35" stop-color="#80e6ff"/><stop offset=".63" stop-color="#2d739b"/><stop offset="1" stop-color="#c5f4ff"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#a6ddff" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="460" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="url(#metal)" stroke-width="2" opacity=".8">
+<ellipse cx="1040" cy="225" rx="165" ry="115" transform="rotate(-35 1040 225)"/>
+<ellipse cx="1040" cy="225" rx="165" ry="75" transform="rotate(35 1040 225)"/>
+<ellipse cx="1040" cy="225" rx="165" ry="35" transform="rotate(-60 1040 225)"/>
+<circle cx="1040" cy="225" r="65"/>
+</g>
+<path d="M64 76H115" stroke="#8be9ff" stroke-width="4"/>
+<text x="64" y="118" fill="#a6c2d5" font-family="Arial,sans-serif" font-size="16" letter-spacing="5">DEVELOPER / CREATIVE TECHNOLOGIST</text>
+<text x="56" y="285" fill="url(#metal)" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="98" letter-spacing="-5">cybermogger</text>
+<text x="65" y="343" fill="#ecf7ff" font-family="Arial,sans-serif" font-size="24" letter-spacing="2">Interfaces. Intelligence. Interaction.</text>
+<text x="65" y="410" fill="#8ca9bd" font-family="monospace" font-size="16">t.me/cybermogger</text>
+<path d="M895 395H1205" stroke="#8be9ff" stroke-opacity=".35"/>
+</svg>
+
