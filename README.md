@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://liquidsss.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-cybermogger-c5ff63?style=for-the-badge&amp;labelColor=10120d" alt="Открыть портфолио" /></a>
+<a href="https://cybermogger.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-cybermogger-c5ff63?style=for-the-badge&amp;labelColor=10120d" alt="Открыть портфолио" /></a>
 <a href="https://t.me/cybermogger"><img src="https://img.shields.io/badge/TELEGRAM-@cybermogger-29a9eb?style=for-the-badge&amp;labelColor=10120d" alt="Telegram @cybermogger" /></a>
 </p>
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#избранные-проекты">Проекты</a> &nbsp; / &nbsp;
   <a href="#технологии">Технологии</a> &nbsp; / &nbsp;
-  <a href="https://github.com/liquidsss?tab=repositories">Репозитории</a>
+  <a href="https://github.com/cybermogger?tab=repositories">Репозитории</a>
 </p>
 
 <h1 align="center">Идеи, которые можно запустить.</h1>
@@ -49,7 +49,7 @@
 
 `JavaScript` · `MediaPipe Hands` · `Computer Vision` · `HTML / CSS`
 
-[Основной репозиторий](https://github.com/Ne0ne1/museum) · [Моя версия](https://github.com/liquidsss/museum)
+[Основной репозиторий](https://github.com/Ne0ne1/museum) · [Моя версия](https://github.com/cybermogger/museum)
 
 <br />
 
@@ -88,7 +88,7 @@
 
 `Python` · `WebSocket` · `Machine Learning` · `SQLite` · `Docker` · `Telegram`
 
-[Архитектура и код](https://github.com/liquidsss/analizator)
+[Архитектура и код](https://github.com/cybermogger/analizator)
 
 ---
 
@@ -109,17 +109,18 @@
 ## Веб-концепты
 
 ### BALCON
-[![Демосайт ресторана BALCON](assets/balcon.jpg)](https://liquidsss.github.io/BALCON/)
+[![Демосайт ресторана BALCON](assets/balcon.jpg)](https://cybermogger.github.io/BALCON/)
 
 Атмосферный ресторанный сайт: меню, галерея и демобронирование. Независимый демоконцепт.
 
 ### CUTHEADS
-[![Демосайт барбершопа CUTHEADS](assets/cutheads.jpg)](https://liquidsss.github.io/CUTHEADS/)
+[![Демосайт барбершопа CUTHEADS](assets/cutheads.jpg)](https://cybermogger.github.io/CUTHEADS/)
 
 Контрастная типографика, фильтры галереи и выбор услуги. Независимый демоконцепт.
 
 ## Связаться
 
-Telegram: [@cybermogger](https://t.me/cybermogger) · [Портфолио](https://liquidsss.github.io/)
+Telegram: [@cybermogger](https://t.me/cybermogger) · [Портфолио](https://cybermogger.github.io/)
+
 
 
