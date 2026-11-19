@@ -49,7 +49,7 @@
 
 `JavaScript` · `MediaPipe Hands` · `Computer Vision` · `HTML / CSS`
 
-[Основной репозиторий](https://github.com/Ne0ne1/museum) · [Моя версия](https://github.com/cybermogger/museum)
+[Открыть демо](https://museum-seven-sage.vercel.app/) · [Основной репозиторий](https://github.com/Ne0ne1/museum) · [Моя версия](https://github.com/cybermogger/museum)
 
 <br />
 
@@ -62,7 +62,7 @@
 
 `Three.js` · `GSAP` · `Vite` · `JavaScript` · `Playwright`
 
-[Код и описание](https://github.com/Ne0ne1/nasledie-v-kode)
+[Открыть демо](https://nasledie-v-kode.vercel.app/) · [Код и описание](https://github.com/Ne0ne1/nasledie-v-kode)
 
 <br />
 
@@ -75,7 +75,7 @@
 
 `TypeScript` · `React` · `Python` · `Ollama` · `AI / ML`
 
-[Код проекта](https://github.com/Ne0ne1/chgu-ai-academy)
+[Открыть демо](https://chgu-ai-academy.vercel.app/route) · [Код проекта](https://github.com/Ne0ne1/chgu-ai-academy)
 
 <br />
 
@@ -121,6 +121,7 @@
 ## Связаться
 
 Telegram: [@cybermogger](https://t.me/cybermogger) · [Портфолио](https://cybermogger.github.io/)
+
 
 
 
